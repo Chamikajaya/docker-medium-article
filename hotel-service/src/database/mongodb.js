@@ -3,17 +3,17 @@ import Hotel from "../models/hotelModel";
 
 const hotels = [
     {
-        id: "1",
+        id: 1,
         name: "Hotel Sunshine",
         country: "USA"
     },
     {
-        id: "2",
+        id: 2,
         name: "Hotel Moonlight",
         country: "Canada"
     },
     {
-        id: "3",
+        id: 3,
         name: "Hotel Starlight",
         country: "UK"
     },
