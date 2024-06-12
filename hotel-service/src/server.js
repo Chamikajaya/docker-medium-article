@@ -4,6 +4,7 @@ import Hotel from "./models/hotelModel";
 import connectToDatabase from "./database/mongodb";
 
 
+
 const app = express();
 connectToDatabase();
 
